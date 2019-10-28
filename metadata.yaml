@@ -1,5 +1,5 @@
 _repo: Thirteen-years-at-the-Russian-court-a-personal-record-of-the-last-years-and-death-of-the-Czar__60546
-_version: 0.1.0
+_version: 0.2.0
 alternative_title:
 - Treize années à la cour de Russie. English
 - 13 years at the Russian court
@@ -13,6 +13,9 @@ contributor:
     deathdate: 1980
     gutenberg_agent_id: '50997'
     url: http://www.gutenberg.org/2009/agents/50997
+covers:
+- cover_type: archival
+  image_path: 60546-h/images/cover.jpg
 creator:
   author:
     agent_name: Gilliard, Pierre
@@ -27,6 +30,8 @@ creator:
     - https://en.wikipedia.org/wiki/Pierre_Gilliard
     - https://fr.wikipedia.org/wiki/Pierre_Gilliard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60546#Thirteen-years-at-the-Russian-court-a-personal-record-of-the-last-years-and-death-of-the-Czar_
 gutenberg_issued: '2019-10-21'
 gutenberg_type: Text
 identifiers:
