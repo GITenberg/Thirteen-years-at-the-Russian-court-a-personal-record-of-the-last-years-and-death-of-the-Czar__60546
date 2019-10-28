@@ -1,0 +1,46 @@
+_repo: Thirteen-years-at-the-Russian-court-a-personal-record-of-the-last-years-and-death-of-the-Czar__60546
+_version: 0.0.1
+alternative_title:
+- Treize années à la cour de Russie. English
+- 13 years at the Russian court
+contributor:
+  translator:
+    agent_name: Holt, F. A. (Frederic Appleby)
+    aliases:
+    - Holt, F. Appleby (Frederic Appleby)
+    - Holt, Frederic Appleby
+    birthdate: 1888
+    deathdate: 1980
+    gutenberg_agent_id: '50997'
+    url: http://www.gutenberg.org/2009/agents/50997
+creator:
+  author:
+    agent_name: Gilliard, Pierre
+    aliases:
+    - Жильяр, Пьер
+    - Жильяр, Петр А.
+    birthdate: 1879
+    deathdate: 1962
+    gutenberg_agent_id: '51010'
+    url: http://www.gutenberg.org/2009/agents/51010
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Pierre_Gilliard
+    - https://fr.wikipedia.org/wiki/Pierre_Gilliard
+description: ''
+gutenberg_issued: '2019-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nicholas II, Emperor of Russia, 1868-1918'
+- !lcc 'DK'
+- !lcsh 'Soviet Union -- History -- Revolution, 1917-1921 -- Personal narratives'
+- !lcsh 'Romanov, House of'
+- GITenberg
+title: "Thirteen years at the Russian court\r\n(a personal record of the last years\
+  \ and death of the Czar Nicholas II. and his family)"
+url: http://www.gutenberg.org/ebooks/60546
